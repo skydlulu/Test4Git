@@ -15,5 +15,7 @@ public class Test2 {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	
+	public String getName4Test(){
+		return "zhangsan";
+	}
 }
