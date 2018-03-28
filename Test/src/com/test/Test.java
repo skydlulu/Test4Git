@@ -2,9 +2,9 @@ package com.test;
 
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("github");
-		System.out.println("github2");
-		System.out.println("github3");
+		System.out.println("githubwwwww");
+		System.out.println("github2wwwww");
+		System.out.println("github3wwwww");
 
 	}
 }
