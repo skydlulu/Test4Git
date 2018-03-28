@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("git edit");
 		System.out.println("git edit2");
 		System.out.println("git edit3");
-                System.out.println("git hub edit");
+        System.out.println("git hub edit");
+        System.out.println("git local edit");
+		System.out.println("git hub edit2");
 	}
 }
